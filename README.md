@@ -106,7 +106,7 @@ sudo apt install rainbowcrack -y
 ### 2. Clone This Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ctf-hash-cracker.git
+git clone https://github.com/Jester/ctf-hash-cracker.git
 cd ctf-hash-cracker
 ```
 
